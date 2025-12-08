@@ -3,6 +3,8 @@
 ## 📋 Overview
 This is a **Computer Vision** project that uses 🤖 AI to see and recognize things in photos and videos! It's a fun learning project where the computer learns to identify people's faces and detect colors.
 
+![Project Demo](image.png)
+
 ---
 
 ## 🎯 What Can This Project Do?
@@ -57,6 +59,8 @@ This is a **Computer Vision** project that uses 🤖 AI to see and recognize thi
 streamlit run main.py
 ```
 Opens a web app to take photos and get predictions 📸
+
+**After running, your browser will open automatically. Click the camera icon to take a photo!** 📷
 
 ---
 
